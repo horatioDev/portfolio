@@ -1,0 +1,14 @@
+/* Common */
+
+body {
+    font-family: 'monospace', 'sans-serif';
+}
+
+.font-primary {
+    color: #00abae /* change color */
+}
+
+.title-icon {
+    font-size: 20px; /*adjustable*/
+    font-weight: bold;
+}
